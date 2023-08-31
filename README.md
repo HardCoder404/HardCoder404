@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prince
+- 👋 Hi, I’m Prince Raj
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on open source

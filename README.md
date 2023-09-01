@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate Web developer !!</h3>
-<img align="right" alt="Coding" width="400" src="https://www.mountainvalleycenter.com/wp-content/uploads/2019/07/funny-nerd-guy-computer-animated-gif.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardcoder404&label=Profile%20views&color=0e75b6&style=flat" alt="hardcoder404" /> </p>
 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞!</br>

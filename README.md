@@ -13,17 +13,17 @@
 </br></br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/praj81232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="praj81232" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prince404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince raj" height="30" width="40" /></a>
-<a href="https://instagram.com/x_prince_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x_prince_404" height="30" width="40" /></a>
+<a href="https:// twitter.com/praj81232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="praj81232" height="30" width="40" /></a>
+<a href="https:// linkedin.com/in/prince404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince raj" height="30" width="40" /></a>
+<a href="https:// instagram.com/x_prince_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x_prince_404" height="30" width="40" /></a>
 </br></br>
 <h3 align="left">Competative Programming Links:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/dracula935" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="dracula935" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hardcoder404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hardcoder404" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/prince_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prince_404" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hardcoder404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hardcoder404" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dracula935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dracula935" height="30" width="40" /></a>
+<a href="https:// www.codechef.com/users/dracula935" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="dracula935" height="30" width="40" /></a>
+<a href="https:// www.hackerrank.com/hardcoder404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hardcoder404" height="30" width="40" /></a>
+<a href="https:// codeforces.com/profile/prince_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prince_404" height="30" width="40" /></a>
+<a href="https:// www.leetcode.com/hardcoder404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hardcoder404" height="30" width="40" /></a>
+<a href="https:// auth.geeksforgeeks.org/user/dracula935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dracula935" height="30" width="40" /></a>
 </br></br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
@@ -42,11 +42,14 @@
 </div>
 <br/><br/></br>
 <hr/>
+<h2 align="center">🎖️ Badges 🎖️</h2>
+<br>
+
+[![An image of @hardcoder404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hardcoder404)](https://holopin.io/@hardcoder404)
 
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Contact+me+via+LinkedIn!;I'm+always+down+to+collab+:)">
 </h3>
-
 
 

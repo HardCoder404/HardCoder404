@@ -48,7 +48,7 @@
 
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1400&height=70&duration=4000&lines=Thanks+for+visiting!+✌️+Contact+me+via+LinkedIn!+I'm+always+down+to+collab+...;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=1400&height=150&duration=4000&lines=Thanks+for+visiting!+✌️+Contact+me+via+LinkedIn!+I'm+always+down+to+collab+...;" />
 </h3>
 
 

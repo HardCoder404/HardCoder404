@@ -19,11 +19,11 @@
 </br></br>
 <h3 align="left">Competative Programming Links:</h3>
 <p align="left">
-<a href="https:// www.codechef.com/users/dracula935" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="dracula935" height="30" width="40" /></a>&nbsp
-<a href="https:// www.hackerrank.com/hardcoder404" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="hardcoder404" height="30" width="30" /></a>&nbsp
-<a href="https:// codeforces.com/profile/prince_404" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png" alt="prince_404" height="24" width="130" /></a>&nbsp
-<a href="https:// www.leetcode.com/hardcoder404" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" alt="hardcoder404" height="30" width="30" /></a>&nbsp
-<a href="https:// auth.geeksforgeeks.org/user/dracula935" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6-300x160.png" alt="dracula935" height="29" width="45" /></a>
+<a href="https://www.codechef.com/users/hardcoder26" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="dracula935" height="30" width="40" /></a>&nbsp
+<a href="https://www.hackerrank.com/profile/HardCoder404" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="hardcoder404" height="30" width="30" /></a>&nbsp
+<a href="https://codeforces.com/profile/prince_404" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png" alt="prince_404" height="24" width="130" /></a>&nbsp
+<a href="https://leetcode.com/HardCoder404/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" alt="hardcoder404" height="30" width="30" /></a>&nbsp
+<a href="https://auth.geeksforgeeks.org/user/dracula935/practice" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6-300x160.png" alt="dracula935" height="29" width="45" /></a>
 </br></br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="c" width="39" height="39"/> </a>&nbsp<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/c-logo.png" width="39" height="39"/> </a> </p>

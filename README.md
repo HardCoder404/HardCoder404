@@ -25,10 +25,10 @@
 <a href="https://auth.geeksforgeeks.org/user/dracula935/practice" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6-300x160.png" alt="dracula935" height="29" width="45" /></a>
 </br></br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="c" width="39" height="39"/></a>&nbsp<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://brandslogos.com/wp-content/uploads/images/c-logo.png" width="39" height="39"/></a></p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="c" width="39" height="39"/></a>&nbsp<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://brandslogos.com/wp-content/uploads/images/c-logo.png" width="39" height="39"/></a>&nbsp<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="42" height="41"/></a>&nbsp<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://billing.flourisense.in/wp-content/uploads/2022/11/css3.png" width="42" height="41"/></a>&nbsp<a href="https://www.geeksforgeeks.org/javascript/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="37" height="38"/></a></p>
+
 </br>
 </div>
-
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>

@@ -1,12 +1,12 @@
 <!---Banner---> 
-<img width="1450" height="365"  src="https://camo.githubusercontent.com/2a63ca5341c9dd769b3cf9c86d6e31c37c586cb6a32176b8797454aa683b500f/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966" >
+<img width="1450" height="365"  src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" >
 
 
  <!---Banner k niche ka Text---> 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&size=32&pause=1000&color=FF0000CD&background=33086700&random=false&width=435&lines=Hi+There!%F0%9F%91%8B+I'm+Prince+Raj...;"/></h1>
 
 <h3 align="center">A passionate Web developer !!</h3>
-<img align="right" alt="Coding" width="390" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+<img align="right" alt="Coding" width="390" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardcoder404&label=Profile%20views&color=0e75b6&style=flat" alt="hardcoder404" /> </p>
 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞!</br>

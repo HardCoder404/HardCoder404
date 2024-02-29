@@ -6,13 +6,14 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&size=32&pause=1000&color=FF0000CD&background=33086700&random=false&width=435&lines=Hi+There!%F0%9F%91%8B+I'm+Prince+Raj...;"/></h1>
 
 <h3 align="center">A passionate Web developer !!</h3>
-<img align="right" alt="Coding" width="390" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+
+<img align="right" alt="Coding" width="500" height ="300" src="https://github.com/HardCoder404/HardCoder404/assets/127084297/a335bd8d-cffc-4a61-b787-77490f49a0fd">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardcoder404&label=Profile%20views&color=0e75b6&style=flat" alt="hardcoder404" /> </p>
 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞!</br>
 ʜᴇʏ ᴛʜᴇʀᴇ!, ɪ'ᴍ ᴘʀɪɴᴄᴇ ʀᴀᴊ, ᴀ ᴅᴇᴅɪᴄᴀᴛᴇᴅ ʙ.ᴛᴇᴄʜ ꜱᴛᴜᴅᴇɴᴛ ᴍᴀᴊᴏʀɪɴɢ ɪɴ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ. ᴇᴀɢᴇʀʟʏ ᴘᴏɪꜱᴇᴅ ꜰᴏʀ ᴛʜᴇ ᴄʜᴀʟʟᴇɴɢᴇꜱ ᴏꜰ ᴛᴏᴍᴏʀʀᴏᴡ, ɪ ᴀᴍ ᴇⓧᴄɪᴛᴇᴅ ᴛᴏ ᴇᴍʙᴀʀᴋ ᴏɴ ᴇⓧᴄɪᴛɪɴɢ
 ɴᴇᴡ ᴘʀᴏᴊᴇᴄᴛꜱ ᴛʜᴀᴛ ᴀᴡᴀɪᴛ ᴏɴ ᴛʜᴇ ʜᴏʀɪᴢᴏɴ. ᴡɪᴛʜ ᴀ ꜰᴏᴜɴᴅᴀᴛɪᴏɴ ɪɴ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ
-ʟᴀɴɢᴜᴀɢᴇꜱ ꜱᴜᴄʜ ᴀꜱ ᴄ/ᴄ++, ᴘʏᴛʜᴏɴ, ᴀɴᴅ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ɪ ᴀᴍ ᴄᴏɴᴛɪɴᴜᴀʟʟʏ ᴇⓧᴘᴀɴᴅɪɴɢ ᴍʏ ꜱᴋɪʟʟ ꜱᴇᴛ ᴛᴏ ᴋᴇᴇᴘ ᴜᴘ ᴡɪᴛʜ ᴛʜᴇ ᴇᴠᴇʀ-ᴇᴠᴏʟᴠɪɴɢ ᴛᴇᴄʜ ʟᴀɴᴅꜱᴄᴀᴘᴇ. ᴍʏ ɢᴏᴀʟ ɪꜱ ɴᴏᴛ ᴏɴʟʏ ᴛᴏ ᴅᴇᴠᴇʟᴏᴘ ꜱᴏꜰᴛᴡᴀʀᴇ ʙᴜᴛ ᴛᴏ ᴍᴀᴋᴇ ᴀ ᴍᴇᴀɴɪɴɢꜰᴜʟ ɪᴍᴘᴀᴄᴛ ᴛʜʀᴏᴜɢʜ ᴍʏ ᴄʀᴇᴀᴛɪᴏɴꜱ. ᴘʀᴇꜱᴇɴᴛʟʏ,
+ʟᴀɴɢᴜᴀɢᴇꜱ ꜱᴜᴄʜ ᴀꜱ ᴄ/ᴄ++, ᴘʏᴛʜᴏɴ, Reactjs, ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ᴀɴᴅ Nodejs. ɪ ᴀᴍ ᴄᴏɴᴛɪɴᴜᴀʟʟʏ ᴇⓧᴘᴀɴᴅɪɴɢ ᴍʏ ꜱᴋɪʟʟ ꜱᴇᴛ ᴛᴏ ᴋᴇᴇᴘ ᴜᴘ ᴡɪᴛʜ ᴛʜᴇ ᴇᴠᴇʀ-ᴇᴠᴏʟᴠɪɴɢ ᴛᴇᴄʜ ʟᴀɴᴅꜱᴄᴀᴘᴇ. ᴍʏ ɢᴏᴀʟ ɪꜱ ɴᴏᴛ ᴏɴʟʏ ᴛᴏ ᴅᴇᴠᴇʟᴏᴘ ꜱᴏꜰᴛᴡᴀʀᴇ ʙᴜᴛ ᴛᴏ ᴍᴀᴋᴇ ᴀ ᴍᴇᴀɴɪɴɢꜰᴜʟ ɪᴍᴘᴀᴄᴛ ᴛʜʀᴏᴜɢʜ ᴍʏ ᴄʀᴇᴀᴛɪᴏɴꜱ. ᴘʀᴇꜱᴇɴᴛʟʏ,
 ɪ'ᴍ ᴀᴄᴛɪᴠᴇʟʏ ᴇɴɢᴀɢɪɴɢ ᴡɪᴛʜ ᴅᴀᴛᴀ ꜱᴛʀᴜᴄᴛᴜʀᴇꜱ ᴀɴᴅ ᴀʟɢᴏʀɪᴛʜᴍꜱ, ᴡᴏʀᴋɪɴɢ ᴛᴏ ᴇɴʜᴀɴᴄᴇ ᴍʏ ꜱᴋɪʟʟꜱ ᴛᴏ ᴀ ᴘʀᴏꜰɪᴄɪᴇɴᴛ ʟᴇᴠᴇʟ.
 </br></br></br>
 <h3 align="left">Connect with me:</h3>

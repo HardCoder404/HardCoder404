@@ -39,7 +39,8 @@
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://billing.flourisense.in/wp-content/uploads/2022/11/css3.png" width="42" height="41"/></a>&nbsp
  <a href="https://www.geeksforgeeks.org/javascript/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="37" height="38"/></a>&nbsp
  <a href="https://react.dev/learn" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="37" height="38"/></a>&nbsp
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://cdn.sanity.io/images/3do82whm/next/4b1f008289a88f4438a1c983fb32cf1a636d9d0e-1000x667.png?w=720&h=480&fit=clip&auto=format" width="80" height="46"/></a>&nbsp
+ <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://cdn.sanity.io/images/3do82whm/next/4b1f008289a88f4438a1c983fb32cf1a636d9d0e-1000x667.png?w=720&h=480&fit=clip&auto=format" width="80" height="46"/></a>&nbsp
+ <a href="https://tailwindcss.com/docs/installations" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/1024px-Tailwind_CSS_logo.svg.png" width="180" height="35"/></a>&nbsp
 
 
 </p>

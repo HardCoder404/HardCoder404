@@ -16,13 +16,15 @@
 ʟᴀɴɢᴜᴀɢᴇꜱ ꜱᴜᴄʜ ᴀꜱ ᴄ/ᴄ++, ᴘʏᴛʜᴏɴ, Reactjs, ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ᴀɴᴅ Nodejs. ɪ ᴀᴍ ᴄᴏɴᴛɪɴᴜᴀʟʟʏ ᴇⓧᴘᴀɴᴅɪɴɢ ᴍʏ ꜱᴋɪʟʟ ꜱᴇᴛ ᴛᴏ ᴋᴇᴇᴘ ᴜᴘ ᴡɪᴛʜ ᴛʜᴇ ᴇᴠᴇʀ-ᴇᴠᴏʟᴠɪɴɢ ᴛᴇᴄʜ ʟᴀɴᴅꜱᴄᴀᴘᴇ. ᴍʏ ɢᴏᴀʟ ɪꜱ ɴᴏᴛ ᴏɴʟʏ ᴛᴏ ᴅᴇᴠᴇʟᴏᴘ ꜱᴏꜰᴛᴡᴀʀᴇ ʙᴜᴛ ᴛᴏ ᴍᴀᴋᴇ ᴀ ᴍᴇᴀɴɪɴɢꜰᴜʟ ɪᴍᴘᴀᴄᴛ ᴛʜʀᴏᴜɢʜ ᴍʏ ᴄʀᴇᴀᴛɪᴏɴꜱ. ᴘʀᴇꜱᴇɴᴛʟʏ,
 ɪ'ᴍ ᴀᴄᴛɪᴠᴇʟʏ ᴇɴɢᴀɢɪɴɢ ᴡɪᴛʜ ᴅᴀᴛᴀ ꜱᴛʀᴜᴄᴛᴜʀᴇꜱ ᴀɴᴅ ᴀʟɢᴏʀɪᴛʜᴍꜱ, ᴡᴏʀᴋɪɴɢ ᴛᴏ ᴇɴʜᴀɴᴄᴇ ᴍʏ ꜱᴋɪʟʟꜱ ᴛᴏ ᴀ ᴘʀᴏꜰɪᴄɪᴇɴᴛ ʟᴇᴠᴇʟ.
 </br></br></br>
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">🌐Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/praj81232" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1245px-Logo_of_Twitter.svg.png" alt="praj81232" height="30" width="40" /></a>&nbsp
 <a href="https://www.linkedin.com/in/prince404/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="prince raj" height="35" width="35" /></a>&nbsp
 <a href="https://www.instagram.com/x_prince_404/?next=%2F" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="x_prince_404" height="35" width="35" /></a>
-</br></br>
-<h3 align="left">Competative Programming Links:</h3>
+<a href="mailto:praj81232@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" alt="x_prince_404" height="60" width="60" /></a>
+
+</br>
+<h2 align="left">👨‍💻Competative Programming Links:</h2>
 <p align="left">
 <a href="https://www.codechef.com/users/hardcoder26" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="dracula935" height="30" width="40" /></a>&nbsp
 <a href="https://www.hackerrank.com/profile/HardCoder404" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="hardcoder404" height="30" width="30" /></a>&nbsp
@@ -30,7 +32,7 @@
 <a href="https://leetcode.com/HardCoder404/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" alt="hardcoder404" height="30" width="30" /></a>&nbsp
 <a href="https://auth.geeksforgeeks.org/user/dracula935/practice" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6-300x160.png" alt="dracula935" height="29" width="45" /></a>
 </br></br>
-<h3 align="left">Tech Stack:</h3>
+<h2 align="left">💻Tech Stack:</h2>
 <p align="left"> 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" 
     alt="c" width="39" height="39"/></a>&nbsp
@@ -40,9 +42,17 @@
  <a href="https://www.geeksforgeeks.org/javascript/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="37" height="38"/></a>&nbsp
  <a href="https://react.dev/learn" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="37" height="38"/></a>&nbsp
  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://cdn.sanity.io/images/3do82whm/next/4b1f008289a88f4438a1c983fb32cf1a636d9d0e-1000x667.png?w=720&h=480&fit=clip&auto=format" width="80" height="46"/></a>&nbsp
- <a href="https://tailwindcss.com/docs/installations" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/1024px-Tailwind_CSS_logo.svg.png" width="180" height="35"/></a>&nbsp
-
-
+ <a href="https://tailwindcss.com/docs/installations" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/1024px-Tailwind_CSS_logo.svg.png" width="180" height="27"/></a>&nbsp
+ <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"><img src="https://reactrouter.com/_brand/react-router-stacked-color.png" width="120" height="50"/></a>&nbsp
+ <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="45" height="36"/></a>&nbsp
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" width="180" height="45"/></a>&nbsp
+<a href="https://vercel.com/hardcoder404s-projects" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/2560px-Vercel_logo_black.svg.png" width="110" height="25"/></a>&nbsp &nbsp
+ <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" width="40" height="28"/></a>&nbsp &nbsp
+<a href="https://redux-toolkit.js.org/introduction/getting-started" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" width="120" height="30"/></a>&nbsp
+ <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="100" height="30"/></a>&nbsp
+ <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" width="100" height="26"/></a>&nbsp
+<a href="https://expressjs.com/en/starter/installing.html" target="_blank" rel="noreferrer"><img src="https://redberries.ae/wp-content/uploads/2023/06/express-js.png" width="100" height="29"/></a>&nbsp
+ 
 </p>
 
 </br>

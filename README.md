@@ -11,10 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardcoder404&label=Profile%20views&color=0e75b6&style=flat" alt="hardcoder404" /> </p>
 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞!</br>
-ʜᴇʏ ᴛʜᴇʀᴇ!, ɪ'ᴍ ᴘʀɪɴᴄᴇ ʀᴀᴊ, ᴀ ᴅᴇᴅɪᴄᴀᴛᴇᴅ ʙ.ᴛᴇᴄʜ ꜱᴛᴜᴅᴇɴᴛ ᴍᴀᴊᴏʀɪɴɢ ɪɴ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ. ᴇᴀɢᴇʀʟʏ ᴘᴏɪꜱᴇᴅ ꜰᴏʀ ᴛʜᴇ ᴄʜᴀʟʟᴇɴɢᴇꜱ ᴏꜰ ᴛᴏᴍᴏʀʀᴏᴡ, ɪ ᴀᴍ ᴇⓧᴄɪᴛᴇᴅ ᴛᴏ ᴇᴍʙᴀʀᴋ ᴏɴ ᴇⓧᴄɪᴛɪɴɢ
-ɴᴇᴡ ᴘʀᴏᴊᴇᴄᴛꜱ ᴛʜᴀᴛ ᴀᴡᴀɪᴛ ᴏɴ ᴛʜᴇ ʜᴏʀɪᴢᴏɴ. ᴡɪᴛʜ ᴀ ꜰᴏᴜɴᴅᴀᴛɪᴏɴ ɪɴ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ
-ʟᴀɴɢᴜᴀɢᴇꜱ ꜱᴜᴄʜ ᴀꜱ ᴄ/ᴄ++, ᴘʏᴛʜᴏɴ, Reactjs, ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ ᴀɴᴅ Nodejs. ɪ ᴀᴍ ᴄᴏɴᴛɪɴᴜᴀʟʟʏ ᴇⓧᴘᴀɴᴅɪɴɢ ᴍʏ ꜱᴋɪʟʟ ꜱᴇᴛ ᴛᴏ ᴋᴇᴇᴘ ᴜᴘ ᴡɪᴛʜ ᴛʜᴇ ᴇᴠᴇʀ-ᴇᴠᴏʟᴠɪɴɢ ᴛᴇᴄʜ ʟᴀɴᴅꜱᴄᴀᴘᴇ. ᴍʏ ɢᴏᴀʟ ɪꜱ ɴᴏᴛ ᴏɴʟʏ ᴛᴏ ᴅᴇᴠᴇʟᴏᴘ ꜱᴏꜰᴛᴡᴀʀᴇ ʙᴜᴛ ᴛᴏ ᴍᴀᴋᴇ ᴀ ᴍᴇᴀɴɪɴɢꜰᴜʟ ɪᴍᴘᴀᴄᴛ ᴛʜʀᴏᴜɢʜ ᴍʏ ᴄʀᴇᴀᴛɪᴏɴꜱ. ᴘʀᴇꜱᴇɴᴛʟʏ,
-ɪ'ᴍ ᴀᴄᴛɪᴠᴇʟʏ ᴇɴɢᴀɢɪɴɢ ᴡɪᴛʜ ᴅᴀᴛᴀ ꜱᴛʀᴜᴄᴛᴜʀᴇꜱ ᴀɴᴅ ᴀʟɢᴏʀɪᴛʜᴍꜱ, ᴡᴏʀᴋɪɴɢ ᴛᴏ ᴇɴʜᴀɴᴄᴇ ᴍʏ ꜱᴋɪʟʟꜱ ᴛᴏ ᴀ ᴘʀᴏꜰɪᴄɪᴇɴᴛ ʟᴇᴠᴇʟ.
+ʜᴇʏ ᴛʜᴇʀᴇ!, ɪ'ᴍ ᴘʀɪɴᴄᴇ ʀᴀᴊ <br/> I am an experienced Web developer with expertise in JavaScript, MongoDB, Express, React, Next Js, React Native and Node.js. I have developed scalable and efficient full-stack solutions for clients, focusing on user-friendly interfaces and web application performance. I am dedicated to staying up-to-date with the latest industry trends and seeking opportunities for professional growth and learning.
 </br></br></br>
 <h2 align="left">🌐Connect with me:</h2>
 <p align="left">

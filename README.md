@@ -52,7 +52,9 @@
  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="100" height="30"/></a>&nbsp
  <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" width="100" height="26"/></a>&nbsp
 <a href="https://expressjs.com/en/starter/installing.html" target="_blank" rel="noreferrer"><img src="https://redberries.ae/wp-content/uploads/2023/06/express-js.png" width="100" height="29"/></a>&nbsp
- 
+<a href="https://firebase.google.com/docs/android/setup" target="_blank" rel="noreferrer"><img src="https://www.gstatic.com/devrel-devsite/prod/v138136e2eb30b542aaba1f756fef1bb285a0aca3815d9b3afa69262b01441aa5/firebase/images/lockup.svg" width="100" height="29"/></a>&nbsp
+ <a href="https://reactnative.dev/docs/environment-setup" target="_blank" rel="noreferrer"><img src="https://cdn.buttercms.com/S6sfpy7OT3yBokvhGo09" width="130" height="35"/></a>&nbsp
+
 </p>
 
 </br>

@@ -1,27 +1,27 @@
 <!---Banner---> 
-<img width="1450" height="365"  src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" >
+<img width="1450" height="365"  src="https://github.com/user-attachments/assets/a30c4f39-7547-434d-8b62-0dfb2bfdb570" >
 
 
  <!---Banner k niche ka Text---> 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&size=32&pause=1000&color=FF0000CD&background=33086700&random=false&width=435&lines=Hi+There!%F0%9F%91%8B+I'm+Prince+Raj...;"/></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&size=32&pause=1000&color=996d6d&background=33086700&random=false&width=435&lines=Hi+There!+I'm+Prince+Raj...;"/></h1>
 
-<h3 align="center">A passionate Web developer !!</h3>
+<h3 align="center">𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐈𝐝𝐞𝐚𝐬 𝐈𝐧𝐭𝐨 𝐑𝐞𝐚𝐥𝐢𝐭𝐲</h3>
 
-<img align="right" alt="Coding" width="500" height ="300" src="https://github.com/HardCoder404/HardCoder404/assets/127084297/a335bd8d-cffc-4a61-b787-77490f49a0fd">
+<img align="right" alt="Coding" width="500" height ="350" src="https://cdn.dribbble.com/userupload/33219605/file/original-3e652baea723121800ca0068452af00e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardcoder404&label=Profile%20views&color=0e75b6&style=flat" alt="hardcoder404" /> </p>
-𝐀𝐛𝐨𝐮𝐭 𝐦𝐞!</br>
-ʜᴇʏ ᴛʜᴇʀᴇ!, ɪ'ᴍ ᴘʀɪɴᴄᴇ ʀᴀᴊ <br/> I am an experienced Web developer with expertise in JavaScript, MongoDB, Express, React, Next Js, React Native and Node.js. I have developed scalable and efficient full-stack solutions for clients, focusing on user-friendly interfaces and web application performance. I am dedicated to staying up-to-date with the latest industry trends and seeking opportunities for professional growth and learning.
+ʜᴇʏ ᴛʜᴇʀᴇ!, ɪ'ᴍ ᴘʀɪɴᴄᴇ ʀᴀᴊ <br/>𝑰’𝒎 𝒂 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒘𝒉𝒐 𝒘𝒐𝒓𝒌𝒔 𝒂𝒄𝒓𝒐𝒔𝒔 𝒕𝒉𝒆 𝒇𝒖𝒍𝒍 𝒔𝒕𝒂𝒄𝒌—𝑹𝒆𝒂𝒄𝒕, 𝑵𝒆𝒙𝒕.𝒋𝒔, 𝑵𝒐𝒅𝒆.𝒋𝒔—𝒄𝒓𝒂𝒇𝒕𝒊𝒏𝒈 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝒕𝒉𝒂𝒕 𝒂𝒓𝒆 𝒆𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕, 𝒎𝒐𝒅𝒆𝒓𝒏, 𝒂𝒏𝒅 𝒃𝒖𝒊𝒍𝒕 𝒕𝒐 𝒔𝒄𝒂𝒍𝒆.
+𝑾𝒊𝒕𝒉 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 𝒊𝒏 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒘𝒆𝒃 𝒂𝒏𝒅 𝒎𝒐𝒃𝒊𝒍𝒆 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔, 𝑰 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒄𝒍𝒆𝒂𝒏 𝒂𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆, 𝒊𝒏𝒕𝒖𝒊𝒕𝒊𝒗𝒆 𝑼𝑰/𝑼𝑿, 𝒂𝒏𝒅 𝒑𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆-𝒅𝒓𝒊𝒗𝒆𝒏 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕. 𝑰 𝒆𝒏𝒋𝒐𝒚 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝒕𝒆𝒂𝒎𝒔, 𝒔𝒐𝒍𝒗𝒊𝒏𝒈 𝒓𝒆𝒂𝒍-𝒘𝒐𝒓𝒍𝒅 𝒑𝒓𝒐𝒃𝒍𝒆𝒎𝒔, 𝒂𝒏𝒅 𝒔𝒕𝒂𝒚𝒊𝒏𝒈 𝒖𝒑𝒅𝒂𝒕𝒆𝒅 𝒘𝒊𝒕𝒉 𝒆𝒎𝒆𝒓𝒈𝒊𝒏𝒈 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔. 𝑨𝒍𝒘𝒂𝒚𝒔 𝒐𝒑𝒆𝒏 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒂𝒏𝒅 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒑𝒓𝒐𝒅𝒖𝒄𝒕𝒔 𝒕𝒉𝒂𝒕 𝒎𝒂𝒌𝒆 𝒂𝒏 𝒊𝒎𝒑𝒂𝒄𝒕.
 </br></br></br>
-<h2 align="left">🌐Connect with me:</h2>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/praj81232" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1245px-Logo_of_Twitter.svg.png" alt="praj81232" height="30" width="40" /></a>&nbsp
+<a href="https://twitter.com/praj81232" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/034/716/139/non_2x/x-new-twitter-logo-free-png.png" height="40" width="40" /></a>&nbsp
 <a href="https://www.linkedin.com/in/prince404/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="prince raj" height="35" width="35" /></a>&nbsp
 <a href="https://www.instagram.com/x_prince_404/?next=%2F" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="x_prince_404" height="35" width="35" /></a>
 <a href="mailto:praj81232@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" alt="x_prince_404" height="60" width="60" /></a>
 
 </br>
-<h2 align="left">👨‍💻Competative Programming Links:</h2>
+<h2 align="left">Competative Programming Links:</h2>
 <p align="left">
 <a href="https://www.codechef.com/users/hardcoder26" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="dracula935" height="30" width="40" /></a>&nbsp
 <a href="https://www.hackerrank.com/profile/HardCoder404" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="hardcoder404" height="30" width="30" /></a>&nbsp
@@ -29,7 +29,7 @@
 <a href="https://leetcode.com/HardCoder404/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" alt="hardcoder404" height="30" width="30" /></a>&nbsp
 <a href="https://auth.geeksforgeeks.org/user/dracula935/practice" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6-300x160.png" alt="dracula935" height="29" width="45" /></a>
 </br></br>
-<h2 align="left">💻Tech Stack:</h2>
+<h2 align="left">Tech Stack:</h2>
 <p align="left"> 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" 
     alt="c" width="39" height="39"/></a>&nbsp
@@ -40,7 +40,7 @@
  <a href="https://react.dev/learn" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="37" height="38"/></a>&nbsp
  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://cdn.sanity.io/images/3do82whm/next/4b1f008289a88f4438a1c983fb32cf1a636d9d0e-1000x667.png?w=720&h=480&fit=clip&auto=format" width="80" height="46"/></a>&nbsp
  <a href="https://tailwindcss.com/docs/installations" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/1024px-Tailwind_CSS_logo.svg.png" width="180" height="27"/></a>&nbsp
- <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"><img src="https://reactrouter.com/_brand/react-router-stacked-color.png" width="120" height="50"/></a>&nbsp
+ <a href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="120" height="50"/></a>&nbsp
  <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="45" height="36"/></a>&nbsp
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" width="180" height="45"/></a>&nbsp
 <a href="https://vercel.com/hardcoder404s-projects" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/2560px-Vercel_logo_black.svg.png" width="110" height="25"/></a>&nbsp &nbsp

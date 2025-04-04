@@ -29,7 +29,7 @@
 <a href="https://leetcode.com/HardCoder404/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" alt="hardcoder404" height="30" width="30" /></a>&nbsp
 <a href="https://auth.geeksforgeeks.org/user/dracula935/practice" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6-300x160.png" alt="dracula935" height="29" width="45" /></a>
 </br></br>
-<h2 align="left">Tech Stack:</h2>
+<h2 align="left">Technologies & Tools:</h2>
 <p align="left"> 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" 
     alt="c" width="39" height="39"/></a>&nbsp
@@ -38,22 +38,26 @@
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://billing.flourisense.in/wp-content/uploads/2022/11/css3.png" width="42" height="41"/></a>&nbsp
  <a href="https://www.geeksforgeeks.org/javascript/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="37" height="38"/></a>&nbsp
  <a href="https://react.dev/learn" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="37" height="38"/></a>&nbsp
- <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://cdn.sanity.io/images/3do82whm/next/4b1f008289a88f4438a1c983fb32cf1a636d9d0e-1000x667.png?w=720&h=480&fit=clip&auto=format" width="80" height="46"/></a>&nbsp
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/nextjs.png" width="38" height="40"/></a>&nbsp
  <a href="https://tailwindcss.com/docs/installations" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/1024px-Tailwind_CSS_logo.svg.png" width="180" height="27"/></a>&nbsp
- <a href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="120" height="50"/></a>&nbsp
+ <a href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="40" height="38"/></a>&nbsp
  <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="45" height="36"/></a>&nbsp
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" width="180" height="45"/></a>&nbsp
 <a href="https://vercel.com/hardcoder404s-projects" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/2560px-Vercel_logo_black.svg.png" width="110" height="25"/></a>&nbsp &nbsp
- <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" width="40" height="28"/></a>&nbsp &nbsp
+ <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" width="40" height="28"/></a>&nbsp &nbsp
 <a href="https://redux-toolkit.js.org/introduction/getting-started" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" width="120" height="30"/></a>&nbsp
  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="100" height="30"/></a>&nbsp
  <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" width="100" height="26"/></a>&nbsp
 <a href="https://expressjs.com/en/starter/installing.html" target="_blank" rel="noreferrer"><img src="https://redberries.ae/wp-content/uploads/2023/06/express-js.png" width="100" height="29"/></a>&nbsp
 <a href="https://firebase.google.com/docs/android/setup" target="_blank" rel="noreferrer"><img src="https://www.gstatic.com/devrel-devsite/prod/v138136e2eb30b542aaba1f756fef1bb285a0aca3815d9b3afa69262b01441aa5/firebase/images/lockup.svg" width="100" height="29"/></a>&nbsp
  <a href="https://reactnative.dev/docs/environment-setup" target="_blank" rel="noreferrer"><img src="https://cdn.buttercms.com/S6sfpy7OT3yBokvhGo09" width="130" height="35"/></a>&nbsp
+<a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" width="40" height="38"/></a>&nbsp
+<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqWn7rCVhqZ_pSlxwVUzlZtFWaOMdbm28A&s" width="35" height="38"/></a>&nbsp
+<a href="https://redis.io/docs/latest/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303460/redis-logo.svg" width="35" height="38"/></a>&nbsp
+ <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="40" height="45"/></a>&nbsp
+  <a href="https://docs.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="45" height="50"/></a>&nbsp
 
 </p>
-
 </br>
 </div>
 <hr/>
@@ -74,7 +78,7 @@
 
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1400&height=110&duration=4000&lines=Thanks+for+visiting!+✌️+Contact+me+via+LinkedIn!+I'm+always+down+to+collab+...;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=615959&center=true&vCenter=true&width=1400&height=110&duration=4000&lines=Thanks+for+visiting!+Contact+me+via+LinkedIn!+I'm+always+down+to+collab+...;" />
 </h3>
 
 

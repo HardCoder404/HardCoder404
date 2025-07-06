@@ -1,6 +1,5 @@
 <!---Banner---> 
-<img width="1450" height="365"  src="https://github.com/user-attachments/assets/a30c4f39-7547-434d-8b62-0dfb2bfdb570" >
-
+<img width="1450" height="365"  src="https://github.com/user-attachments/assets/8d87bd44-2bb2-49eb-b057-06409fae84e1" >
 
  <!---Banner k niche ka Text---> 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&size=32&pause=1000&color=996d6d&background=33086700&random=false&width=435&lines=Hi+There!+I'm+Prince+Raj...;"/></h1>
@@ -10,8 +9,22 @@
 <img align="right" alt="Coding" width="500" height ="350" src="https://cdn.dribbble.com/userupload/33219605/file/original-3e652baea723121800ca0068452af00e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardcoder404&label=Profile%20views&color=0e75b6&style=flat" alt="hardcoder404" /> </p>
-ʜᴇʏ ᴛʜᴇʀᴇ!, ɪ'ᴍ ᴘʀɪɴᴄᴇ ʀᴀᴊ <br/>𝑰’𝒎 𝒂 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒘𝒉𝒐 𝒘𝒐𝒓𝒌𝒔 𝒂𝒄𝒓𝒐𝒔𝒔 𝒕𝒉𝒆 𝒇𝒖𝒍𝒍 𝒔𝒕𝒂𝒄𝒌—𝑹𝒆𝒂𝒄𝒕, 𝑵𝒆𝒙𝒕.𝒋𝒔, 𝑵𝒐𝒅𝒆.𝒋𝒔—𝒄𝒓𝒂𝒇𝒕𝒊𝒏𝒈 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝒕𝒉𝒂𝒕 𝒂𝒓𝒆 𝒆𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒕, 𝒎𝒐𝒅𝒆𝒓𝒏, 𝒂𝒏𝒅 𝒃𝒖𝒊𝒍𝒕 𝒕𝒐 𝒔𝒄𝒂𝒍𝒆.
-𝑾𝒊𝒕𝒉 𝒆𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆 𝒊𝒏 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒘𝒆𝒃 𝒂𝒏𝒅 𝒎𝒐𝒃𝒊𝒍𝒆 𝒂𝒑𝒑𝒍𝒊𝒄𝒂𝒕𝒊𝒐𝒏𝒔, 𝑰 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒄𝒍𝒆𝒂𝒏 𝒂𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆, 𝒊𝒏𝒕𝒖𝒊𝒕𝒊𝒗𝒆 𝑼𝑰/𝑼𝑿, 𝒂𝒏𝒅 𝒑𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆-𝒅𝒓𝒊𝒗𝒆𝒏 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕. 𝑰 𝒆𝒏𝒋𝒐𝒚 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝒕𝒆𝒂𝒎𝒔, 𝒔𝒐𝒍𝒗𝒊𝒏𝒈 𝒓𝒆𝒂𝒍-𝒘𝒐𝒓𝒍𝒅 𝒑𝒓𝒐𝒃𝒍𝒆𝒎𝒔, 𝒂𝒏𝒅 𝒔𝒕𝒂𝒚𝒊𝒏𝒈 𝒖𝒑𝒅𝒂𝒕𝒆𝒅 𝒘𝒊𝒕𝒉 𝒆𝒎𝒆𝒓𝒈𝒊𝒏𝒈 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔. 𝑨𝒍𝒘𝒂𝒚𝒔 𝒐𝒑𝒆𝒏 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒂𝒏𝒅 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒑𝒓𝒐𝒅𝒖𝒄𝒕𝒔 𝒕𝒉𝒂𝒕 𝒎𝒂𝒌𝒆 𝒂𝒏 𝒊𝒎𝒑𝒂𝒄𝒕.
+𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 | 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗦𝘁𝗮𝗿𝘁𝘂𝗽 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 | 𝟮+ 𝗬𝗢𝗘
+<br/><br/>
+I don’t just write code — I build real products. From empty repos to deployed apps, I own every step of the software lifecycle. Having worked end-to-end in fast-evolving, real-world startup setups, I bring a deep understanding of how to ship production-ready, SEO-optimized, and user-centric products from scratch.
+
+💡My experience covers a range of role — from SDE to Full Stack Developer — and contributed across the stack with strong hands-on expertise in:
+
+🔹 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: React.js, Next.js, TailwindCSS, TypeScript, Angular, Redux<br/>
+🔹 𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Node.js, Express.js, MongoDB, Firebase, PostgreSQL, graphQL<br/>
+🔹 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗖𝗜/𝗖𝗗: GitHub Actions, Vercel, Netlify, Docker, AWS<br/>
+🔹 Agile teams, scalable architectures, REST APIs, and rapid prototyping.<br/>
+
+I thrive in dynamic environments where I can combine technical depth, product thinking, and execution speed to build software that delivers real impact. Whether it’s bootstrapping a new feature, optimizing page performance, or scaling systems, I bring a builder’s mindset with a focus on clean code and long-term maintainability.
+
+📈 Open to exciting opportunities where I can continue solving meaningful problems and build with great teams.
+
+Let’s connect — I’d love to collaborate and code something impactful together.
 </br></br></br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">

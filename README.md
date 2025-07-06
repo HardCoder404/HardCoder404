@@ -15,7 +15,7 @@
 </br></br></br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/praj81232" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/034/716/139/non_2x/x-new-twitter-logo-free-png.png" height="40" width="40" /></a>&nbsp
+<a href="https://twitter.com/princeraj404" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/034/716/139/non_2x/x-new-twitter-logo-free-png.png" height="40" width="40" /></a>&nbsp
 <a href="https://www.linkedin.com/in/prince404/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="prince raj" height="35" width="35" /></a>&nbsp
 <a href="https://www.instagram.com/x_prince_404/?next=%2F" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="x_prince_404" height="35" width="35" /></a>
 <a href="mailto:praj81232@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" alt="x_prince_404" height="60" width="60" /></a>

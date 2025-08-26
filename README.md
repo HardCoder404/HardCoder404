@@ -85,7 +85,27 @@ Let’s connect — I’d love to collaborate and code something impactful toget
 </div>
 <br/><br/></br>
 <hr/>
-<h2 align="center">🎖️ Badges 🎖️</h2>
+
+<h2 align="center">🎖️ All DSA Badges @LeetCode 🎖️</h2>
+<br>
+<div align=center>
+ <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" width="80px"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="80px"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="80px"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/lg100.png" width="80px"/>
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-6.png" width="80px"/>
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-5.png" width="80px"/>
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-4.png" width="80px"/>
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" width="80px"/>
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="80px"/>
+  <img src="https://leetcode.com/static/images/badges/dcc-2023-11.png" width="80px"/>
+  <img src="https://leetcode.com/static/images/badges/dcc-2023-10.png" width="80px"/>
+  <img src="https://leetcode.com/static/images/badges/dcc-2023-9.png" width="80px"/>
+</div>
+<br/>
+<hr/>
+
+<h2 align="center">🎖️ Holopin Badges 🎖️</h2>
 <br>
 
 [![An image of @hardcoder404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hardcoder404)](https://holopin.io/@hardcoder404)

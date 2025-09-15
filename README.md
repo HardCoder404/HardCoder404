@@ -119,38 +119,57 @@ Software Engineer · Pune, India · Remote
 <a href="https://leetcode.com/HardCoder404/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" alt="hardcoder404" height="30" width="30" /></a>&nbsp
 <a href="https://auth.geeksforgeeks.org/user/dracula935/practice" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6-300x160.png" alt="dracula935" height="29" width="45" /></a>
 </br></br>
-<h2 align="left">Technologies & Tools:</h2>
-<p align="left"> 
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" 
-    alt="c" width="39" height="39"/></a>&nbsp
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://brandslogos.com/wp-content/uploads/images/c-logo.png" width="39" height="39"/></a>&nbsp
- <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="42" height="41"/></a>&nbsp
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://billing.flourisense.in/wp-content/uploads/2022/11/css3.png" width="42" height="41"/></a>&nbsp
- <a href="https://www.geeksforgeeks.org/javascript/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="37" height="38"/></a>&nbsp
- <a href="https://react.dev/learn" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="37" height="38"/></a>&nbsp
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/512/nextjs.png" width="38" height="40"/></a>&nbsp
- <a href="https://tailwindcss.com/docs/installations" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/1024px-Tailwind_CSS_logo.svg.png" width="180" height="27"/></a>&nbsp
- <a href="https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="40" height="38"/></a>&nbsp
- <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="45" height="36"/></a>&nbsp
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" width="180" height="45"/></a>&nbsp
-<a href="https://vercel.com/hardcoder404s-projects" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/2560px-Vercel_logo_black.svg.png" width="110" height="25"/></a>&nbsp &nbsp
- <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" width="40" height="28"/></a>&nbsp &nbsp
-<a href="https://redux-toolkit.js.org/introduction/getting-started" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" width="120" height="30"/></a>&nbsp
- <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" width="100" height="30"/></a>&nbsp
- <a href="https://nodejs.org/docs/latest/api/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" width="100" height="26"/></a>&nbsp
-<a href="https://expressjs.com/en/starter/installing.html" target="_blank" rel="noreferrer"><img src="https://redberries.ae/wp-content/uploads/2023/06/express-js.png" width="100" height="29"/></a>&nbsp
-<a href="https://firebase.google.com/docs/android/setup" target="_blank" rel="noreferrer"><img src="https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2021/09/Firebase-Logo.png?resize=750%2C196&quality=100&strip=all&ssl=1" width="100" height="29"/></a>&nbsp
- <a href="https://reactnative.dev/docs/environment-setup" target="_blank" rel="noreferrer"><img src="https://cdn.buttercms.com/S6sfpy7OT3yBokvhGo09" width="130" height="35"/></a>&nbsp
-<a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="40" height="38"/></a>&nbsp
- <a href="https://graphql.org/learn/" target="_blank" rel="noreferrer"><img src="https://graphqleditorcms.fra1.cdn.digitaloceanspaces.com/graphqleditorcms/graphql_page/graphql-1732132118455.png" width="40" height="38"/></a>&nbsp
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqWn7rCVhqZ_pSlxwVUzlZtFWaOMdbm28A&s" width="35" height="38"/></a>&nbsp
-<a href="https://redis.io/docs/latest/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303460/redis-logo.svg" width="35" height="38"/></a>&nbsp
- <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="40" height="45"/></a>&nbsp
-  <a href="https://docs.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="45" height="50"/></a>&nbsp
 
-</p>
-</br>
-</div>
+---
+
+<h2 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Use To Code</b> 💻
+</h2>
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="55" height="55" /><br>TypeScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="55" height="55" /><br>React</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" /><br>Next.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" /><br>Node.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="55" height="55" /><br>Express.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br>MongoDB</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=go" width="55" height="55" /><br>Go(Golang)</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=angular" width="55" height="55" /><br>Angular</td>  
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br>Tailwind CSS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" /><br>Bootstrap</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="55" height="55" /><br>Redux</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" width="55" height="55" /><br>Redis</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="55" height="55" /><br>C</td>
+    <td align="center" width="90"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHj4UwTW4ANSlNjzQOiiOqfDa6kal9RpF0A&s" width="55" height="55" /><br>Zustand</td>      
+    <td align="center" width="90"><img src="https://avatars.githubusercontent.com/u/139895814?v=4" width="55" height="55" /><br>Shadcn</td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=graphql" width="55" height="55" /><br>GraphQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=prisma" width="55" height="55" /><br>Prisma</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" /><br>Firebase</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" /><br>PostgreSQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="55" height="55" /><br>Postman</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br>Figma</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GitHub Actions</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
+  </tr>
+   <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" /><br>AWS</td>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/reactquery-pink" width="55" height="55" /><br>React Query</td>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/githubcopilot-blue" width="55" height="55" /><br>GitHub Copilot</td>   
+</tr>
+</table>
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>

@@ -7,13 +7,12 @@
 <h3 align="center">Cracked 4 National & International Remote SDE Roles as a Fresher</h3>
 <p align="center"><b>Software Engineer | Sr. Software Engineer @Slooze | Ex-SDE @DevTown | Ex-Full Stack Developer @Xipper | 3⭐ LEETCODE | GSSoC'24 Contributor | 200DaysOfCode+ on @LeetCode | 1000+ Problems Solved on DSA | DSA & DEV Mentor | 75DayHardPlacementChallenge 🔥</b> 
 
-
-<img align="right" alt="Coding" width="500" height ="500" src="https://assets.leetcode.com/static_assets/marketing/2024.gif">
+<img align="right" alt="Coding" width="450" height ="450" src="https://assets.leetcode.com/static_assets/marketing/2024.gif">
 <br/><br/>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hardcoder404&label=Profile%20views&color=0e75b6&style=flat" alt="hardcoder404" />
   <a href="https://princeraj-opal.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Why%20I%20fit%20in%20your%20bucket-6D38C3?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZD0iTTEyIDEyYzAgMS4xLS45IDItMiAyaC00Yy0xLjEgMC0yLS45LTItMnYtMWMwLTEuMS45LTIsMi0yaDRjMS4xIDAgMiAuOSAyIDJ2MXptLTYtNmMwLTEuMS45LTIsMi0yczIgLjkgMiAyLS45IDItMiAyLTItLjktMi0yIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==" />
+    <img src="https://img.shields.io/badge/Why%20I%20fit%20in%20your%20bucket%20(Click%20Me!)-6D38C3?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZD0iTTEyIDEyYzAgMS4xLS45IDItMiAyaC00Yy0xLjEgMC0yLS45LTItMnYtMWMwLTEuMS45LTIsMi0yaDRjMS4xIDAgMiAuOSAyIDJ2MXptLTYtNmMwLTEuMS45LTIsMi0yczIgLjkgMiAyLS45IDItMiAyLTItLjktMi0yIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==" />
   </a>
 </p>
 
@@ -112,7 +111,7 @@ Software Engineer · Pune, India · Remote
 <a href="mailto:praj81232@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" alt="x_prince_404" height="60" width="60" /></a>
 
 </br>
-<h2 align="left">Competative Programming Links:</h2>
+<h2 align="left">I'm Code on (DSA):</h2>
 <p align="left">
 <a href="https://www.codechef.com/users/hardcoder26" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="dracula935" height="30" width="40" /></a>&nbsp
 <a href="https://www.hackerrank.com/profile/HardCoder404" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="hardcoder404" height="30" width="30" /></a>&nbsp

@@ -136,9 +136,9 @@ Software Engineer · Pune, India · Remote
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=go" width="55" height="55" /><br>Go(Golang)</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=angular" width="55" height="55" /><br>Angular</td>  
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
   </tr>
   <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br>Tailwind CSS</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" /><br>Bootstrap</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML</td>
@@ -148,10 +148,10 @@ Software Engineer · Pune, India · Remote
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redis" width="55" height="55" /><br>Redis</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="55" height="55" /><br>C</td>
-    <td align="center" width="90"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHj4UwTW4ANSlNjzQOiiOqfDa6kal9RpF0A&s" width="55" height="55" /><br>Zustand</td>      
-    <td align="center" width="90"><img src="https://avatars.githubusercontent.com/u/139895814?v=4" width="55" height="55" /><br>Shadcn</td>
   </tr>
   <tr>
+    <td align="center" width="90"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHj4UwTW4ANSlNjzQOiiOqfDa6kal9RpF0A&s" width="55" height="55" /><br>Zustand</td>      
+    <td align="center" width="90"><img src="https://avatars.githubusercontent.com/u/139895814?v=4" width="55" height="55" /><br>Shadcn</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=graphql" width="55" height="55" /><br>GraphQL</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=prisma" width="55" height="55" /><br>Prisma</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" /><br>Firebase</td>
@@ -160,15 +160,23 @@ Software Engineer · Pune, India · Remote
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="55" height="55" /><br>Postman</td>
+  </tr>
+   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br>Figma</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GitHub Actions</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
-  </tr>
-   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" /><br>AWS</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/reactquery-pink" width="55" height="55" /><br>React Query</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/githubcopilot-blue" width="55" height="55" /><br>GitHub Copilot</td>   
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nginx" width="55" height="55" /><br>Nginx</td>   
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" /><br>Supabase</td> 
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=npm" width="55" height="55" /><br>NPM</td> 
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jest" width="55" height="55" /><br>Jest</td>   
 </tr>
+ <tr>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vercel" width="55" height="55" /><br>Vercel</td>
+  <td align="center" width="90"><img src="https://skillicons.dev/icons?i=netlify" width="55" height="55" /><br>Netlify</td>
+ </tr>
 </table>
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>

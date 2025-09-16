@@ -18,7 +18,7 @@
 
 
 
-𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 | 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗦𝘁𝗮𝗿𝘁𝘂𝗽 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 | 𝟮+ 𝗬𝗢𝗘
+𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 | 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗦𝘁𝗮𝗿𝘁𝘂𝗽 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 | **3**+ 𝗬𝗢𝗘
 <br/><br/>
 I don’t just write code — I build real products. From empty repos to deployed apps, I own every step of the software lifecycle. Having worked end-to-end in fast-evolving, real-world startup setups, I bring a deep understanding of how to ship production-ready, SEO-optimized, and user-centric products from scratch.
 

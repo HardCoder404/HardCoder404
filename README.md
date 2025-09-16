@@ -18,7 +18,7 @@
 
 
 
-𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 | 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗦𝘁𝗮𝗿𝘁𝘂𝗽 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 | **3**+ 𝗬𝗢𝗘
+𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 | 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗦𝘁𝗮𝗿𝘁𝘂𝗽 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 | **2.5**+ 𝗬𝗢𝗘
 <br/><br/>
 I don’t just write code — I build real products. From empty repos to deployed apps, I own every step of the software lifecycle. Having worked end-to-end in fast-evolving, real-world startup setups, I bring a deep understanding of how to ship production-ready, SEO-optimized, and user-centric products from scratch.
 
@@ -54,7 +54,7 @@ Let’s connect — I’d love to collaborate and code something impactful toget
 
 <h2></h2>
 
-**June 2025 – Aug 2025**  
+**June 2025 – Present**  
 Software Engineer · Coimbatore, Tamil Nadu, India · Remote 
 * 🌐 Developed and designed the **official company website** with seamless **3D model integration** and advanced UI animations using Framer Motion, enhancing user interactivity and visual appeal.
 * 🔗 Integrated **GraphQL APIs** for efficient and structured data fetching, **transitioning from traditional REST APIs** to a more scalable and performant architecture.
@@ -66,7 +66,7 @@ Software Engineer · Coimbatore, Tamil Nadu, India · Remote
 ---
 
 ### DevTown 
-**Oct 2024 – July 2025**  
+**Oct 2024 – May 2025**  
 SDE-I · Mumbai, Maharashtra, India · Remote 
 * 🤖 **Built an AI-powered chat application** from the ground up, improving **frontend efficiency by 60%** and backend performance by **30%**, delivering a highly responsive user experience.
 * ⚡ **Integrated and optimized AI model responses**, reducing latency from **1.86s to 1.2s (35% faster)** through strategic API design, caching, and performance tuning.
@@ -97,6 +97,19 @@ Software Engineer · Pune, India · Remote
 * 🤖 **Integrated and optimized AI model responses**, reducing latency from **1.86s to 1.2s (35% faster)** through strategic API design, caching, and performance tuning.
 * 🛠️ Reduced technical debt **by 30% via in-depth code reviews** and optimization, ensuring maintainable, standardized codebases.
 * ☁️ **Designed scalable cloud architecture on Microsoft Azure** for AI workloads, improving system **throughput by 10%** while significantly **reducing infrastructure costs** via autoscaling and resource optimization.
+
+
+---
+
+
+### Cyberoi Systems 
+**Mar 2023 – Aug 2023**  
+Frontend Developer · Chandigarh, Punjab · Remote 
+* 🖥️ Built responsive and user-friendly web pages using **React.js** and Material-UI, improving overall UI consistency.
+* 🔌 Integrated **ElasticSearch** API on the frontend to display restaurants based on user queries and locations.
+* ⚙️ Implemented **Google Maps API** to detect and display the user’s current location for nearby restaurant suggestions.
+* 🛠️ Gained exposure to AWS services, serverless technologies, and CI/CD pipelines with Jenkins, enhancing understanding of modern deployment practices.
+* ⚡ Collaborated with the backend team to connect APIs with the frontend, **improving** data flow and overall application **performance**.
 
 
 ---
@@ -193,18 +206,18 @@ Software Engineer · Pune, India · Remote
 <h2 align="center">🎖️ All DSA Badges @LeetCode 🎖️</h2>
 <br>
 <div align=center>
- <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" width="80px"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="80px"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width="80px"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/lg100.png" width="80px"/>
-  <img src="https://leetcode.com/static/images/badges/dcc-2024-6.png" width="80px"/>
-  <img src="https://leetcode.com/static/images/badges/dcc-2024-5.png" width="80px"/>
-  <img src="https://leetcode.com/static/images/badges/dcc-2024-4.png" width="80px"/>
-  <img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" width="80px"/>
-  <img src="https://leetcode.com/static/images/badges/dcc-2024-1.png" width="80px"/>
-  <img src="https://leetcode.com/static/images/badges/dcc-2023-11.png" width="80px"/>
-  <img src="https://leetcode.com/static/images/badges/dcc-2023-10.png" width="80px"/>
-  <img src="https://leetcode.com/static/images/badges/dcc-2023-9.png" width="80px"/>
+ <img src="https://miro.medium.com/0*rH8aOBazxJ8t9msp.gif" width="80px"/>
+  <img src="https://assets.leetcode.com/users/images/20b0a625-ea31-4a3e-b561-7000deae15cc_1708636184.9909492.gif" width="80px"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQE2Azq62gSfgA/feedshare-shrink_800/feedshare-shrink_800/0/1703910451361?e=1761177600&v=beta&t=UiRrC92_zp4H5Bo5TL_IIaS1O5KsC7SSFuePfa6lzKs" width="80px"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQEr-zHvpxnsaQ/feedshare-shrink_800/feedshare-shrink_800/0/1703910452934?e=1761177600&v=beta&t=1PyPFoElVqZWujoyDSwes_-jePnoXvKwa7JdIAnKj3Q" width="80px"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQGteRt1IT34RA/feedshare-shrink_800/feedshare-shrink_800/0/1719718413212?e=1761177600&v=beta&t=-6qY-D-dPOrxt_xjq71yDv6Dq7VVUbPSNoT9GymTgcU" width="80px"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQEzvQMU542tmg/feedshare-shrink_800/feedshare-shrink_800/0/1717145209065?e=1761177600&v=beta&t=QaQHY2WWnQgVcmx618Uno34cDR79i5LdOwnjsjiD1Ik" width="80px"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQGw2VyYUDfOvg/feedshare-shrink_800/feedshare-shrink_800/0/1715309303938?e=1761177600&v=beta&t=b8ZVZGxElKVo1BIFHplCUZ788W3hf9h1Ljhe34R5hNk" width="80px"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQHuprO-zdIExg/feedshare-shrink_800/feedshare-shrink_800/0/1712828518741?e=1761177600&v=beta&t=PaiUT9YTdb0B5vXLuube0uUwlFWqJiTkhOkhs5_jaa8" width="80px"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQGrl-Y_xJ6Teg/feedshare-shrink_2048_1536/B56ZS8c9leHwAo-/0/1738328501228?e=1761177600&v=beta&t=5nlKp4gbyR213NaWSD6wtBOqOaswwhSSWZD9-cymU30" width="80px"/>
+  <img src="https://camo.githubusercontent.com/d5c083ddd97dbcab2721063dc51d54e3a62a1366220709e82a2b887a7a98486a/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f6261646765732f323032342f6769662f323032342d31312e676966" width="80px"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E22AQH_Q5O2TRYY7g/feedshare-shrink_800/feedshare-shrink_800/0/1698740127543?e=1761177600&v=beta&t=JZR_C4CdPKseXZAW0lb311VdLzwc6mch0ttRe3x2qvI" width="80px"/>
+  <img src="https://private-user-images.githubusercontent.com/136890202/393192398-d5bf3d37-57e3-42d2-b26d-e83fb5e6fd34.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgwNTE5MjksIm5iZiI6MTc1ODA1MTYyOSwicGF0aCI6Ii8xMzY4OTAyMDIvMzkzMTkyMzk4LWQ1YmYzZDM3LTU3ZTMtNDJkMi1iMjZkLWU4M2ZiNWU2ZmQzNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxNlQxOTQwMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMTFmY2E4NjA0NzIyNGJhMzUwODYyM2E5NTBhOWM4MjkwYTQ2YzhhNDNmZmM0ZTdmYTA5MDBmMjBhNmM0OWU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.1eXDxpTSx-r8oDMUo8FH8i6hkLJ2XDV45FtXJlrRJFs" width="80px"/>
 </div>
 <br/>
 <hr/>

@@ -5,7 +5,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&size=32&pause=1000&color=996d6d&background=33086700&random=false&width=700&lines=Hi+There!+I'm+Prince+Raj+(Software+Engineer);"/></h1>
 
 <h3 align="center">Cracked 4 National & International Remote SDE Roles as a Fresher</h3>
-<p align="center"><b>Software Engineer | Sr. Software Engineer @Slooze | Ex-SDE @DevTown | Ex-Full Stack Developer @Xipper | 3⭐ LEETCODE | GSSoC'24 Contributor | 200DaysOfCode+ on @LeetCode | 1000+ Problems Solved on DSA | DSA & DEV Mentor | 75DayHardPlacementChallenge 🔥</b> 
+<p align="center"><b>Software Engineer @Quess Corp | Ex-FSD @WhatBytes  | Ex-Software Engineer @Slooze | 3⭐ LEETCODE | GSSoC'24 Contributor | 200DaysOfCode+ on @LeetCode | 1000+ Problems Solved on DSA | DSA & DEV Mentor | 75DayHardPlacementChallenge 🔥</b> 
 
 <img align="right" alt="Coding" width="450" height ="450" src="https://assets.leetcode.com/static_assets/marketing/2024.gif">
 <br/><br/>
@@ -20,20 +20,21 @@
 
 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 | 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗦𝘁𝗮𝗿𝘁𝘂𝗽 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁 | **2.5**+ 𝗬𝗢𝗘
 <br/><br/>
-I don’t just write code — I build real products. From empty repos to deployed apps, I own every step of the software lifecycle. Having worked end-to-end in fast-evolving, real-world startup setups, I bring a deep understanding of how to ship production-ready, SEO-optimized, and user-centric products from scratch.
+I don’t just write code - I build real products. From empty repos to deployed apps, I own every step of the software lifecycle. Having worked end-to-end in fast-evolving, real-world startup setups, I bring a deep understanding of how to ship production-ready, SEO-optimized, and user-centric products from scratch.
 
-💡My experience covers a range of role — from SDE to Full Stack Developer — and contributed across the stack with strong hands-on expertise in:
+💡My experience covers a range of role - from SDE to Full Stack Developer - and contributed across the stack with strong hands-on expertise in:
 
-🔹 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: React.js, Next.js, TailwindCSS, TypeScript, Angular, Redux<br/>
-🔹 𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Node.js, Express.js, MongoDB, Firebase, PostgreSQL, graphQL<br/>
-🔹 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗖𝗜/𝗖𝗗: GitHub Actions, Vercel, Netlify, Docker, AWS<br/>
+🔹 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: React.js, Next.js, Tailwind CSS, TypeScript, Angular, Redux<br/>
+🔹 𝗕𝗮𝗰𝗸𝗲𝗻𝗱: Node.js, Express.js, MongoDB, Firebase, PostgreSQL, GraphQL<br/>
+🔹 **Cloud/DevOps**:  GitHub Actions, Vercel, Netlify, AWS (EC2, Lambda, S3, CloudFront), Docker, Kubernetes<br/>
+🔹 **Architecture**: Microservices, REST APIs, Serverless, Event-driven, CI/CD Pipeline<br/>
 🔹 Agile teams, scalable architectures, REST APIs, and rapid prototyping.<br/>
 
 I thrive in dynamic environments where I can combine technical depth, product thinking, and execution speed to build software that delivers real impact. Whether it’s bootstrapping a new feature, optimizing page performance, or scaling systems, I bring a builder’s mindset with a focus on clean code and long-term maintainability.
 
 📈 Open to exciting opportunities where I can continue solving meaningful problems and build with great teams.
 
-Let’s connect — I’d love to collaborate and code something impactful together.
+Let’s connect - I’d love to collaborate and code something impactful together.
 </br></br></br>
 
 <h2 align="left">👨‍🏫 Professional Experience</h2>

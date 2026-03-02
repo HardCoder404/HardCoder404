@@ -36,12 +36,23 @@ I thrive in dynamic environments where I can combine technical depth, product th
 Let’s connect — I’d love to collaborate and code something impactful together.
 </br></br></br>
 
-<h2 align="left">👨‍🏫 Professional Experience (From Jan 2024 - Present)</h2>
+<h2 align="left">👨‍🏫 Professional Experience</h2>
 <p align="left">
- 
-### Slooze  
 
-#### **Sr. Engineer (Aug 2025 – Present)**
+### Quess Corp
+**Feb 2026 - Present**   
+ Software Engineer · Gurugram, India · On-site
+
+* 🧠 **Engineered structured evaluation workflows** for coding LLMs by analyzing real-world GitHub PRs, extracting detailed task metadata (language, difficulty, critical files), and validating outputs against **golden reference patches** for precise correctness checks.
+* 📏 Designed **5-10 task-specific binary rubrics (40-50% correctness-focused)** to systematically grade model responses across code quality, logical reasoning, summary accuracy, and behavioral alignment.
+* ⚖️ **Led side-by-side (SxS) model evaluations** using a weighted scoring framework (Instruction Following, Truthfulness, Correctness, Writing Style, Verbosity) to determine clear model preference and quality differentials.
+* 🚀 Conducted competitive benchmarking of internal models against **GPT-5.2 and Gemini-3 Pro**, delivering **evidence-backed justifications** and structured JSON reports to accelerate post-training optimization and performance analysis.
+
+---
+
+### Slooze  
+**May 2025 - Jul 2025**  
+Sr. Software Engineer · Coimbatore, Tamil Nadu, India · Remote 
 
 * 🎨 **Spearheaded the creation** of an internal design-to-dev pipeline using a custom **Canva workspace**, streamlining the design handoff process and reducing UI inconsistencies by **70%**.
 * 🔐 Refactored and secured **critical API endpoints**, ensuring optimal performance and alignment with RESTful best practices while improving system resilience and maintainability.
@@ -54,7 +65,7 @@ Let’s connect — I’d love to collaborate and code something impactful toget
 
 <h2></h2>
 
-**June 2025 – Present**  
+**Nov 2024 - Apr 2025**  
 Software Engineer · Coimbatore, Tamil Nadu, India · Remote 
 * 🌐 Developed and designed the **official company website** with seamless **3D model integration** and advanced UI animations using Framer Motion, enhancing user interactivity and visual appeal.
 * 🔗 Integrated **GraphQL APIs** for efficient and structured data fetching, **transitioning from traditional REST APIs** to a more scalable and performant architecture.
@@ -66,7 +77,7 @@ Software Engineer · Coimbatore, Tamil Nadu, India · Remote
 ---
 
 ### DevTown 
-**Oct 2024 – May 2025**  
+**Sep 2023 – Oct 2024**  
 SDE-I · Mumbai, Maharashtra, India · Remote 
 * 🤖 **Built an AI-powered chat application** from the ground up, improving **frontend efficiency by 60%** and backend performance by **30%**, delivering a highly responsive user experience.
 * ⚡ **Integrated and optimized AI model responses**, reducing latency from **1.86s to 1.2s (35% faster)** through strategic API design, caching, and performance tuning.
@@ -79,7 +90,7 @@ SDE-I · Mumbai, Maharashtra, India · Remote
 ---
 
 ### Xipper 
-**July 2024 – Sept 2024**  
+**Jun 2023 – Aug 2023**  
 Full Stack Developer · Bengaluru, India · Remote 
 * 🔌 Designed and integrated RESTful APIs, **reducing system overload** and enhancing communication between frontend and backend systems by **30%**, ensuring robust and scalable interactions.
 * 📡 Designed scalable **real-time communication features** using WebSocket, ensuring smooth and reliable user experiences in live chat applications, reducing latency issues **by 35%**.
@@ -90,26 +101,13 @@ Full Stack Developer · Bengaluru, India · Remote
 ---
 
 ### EliteKods 
-**Sept 2023 – June 2024**  
-Software Engineer · Pune, India · Remote 
+**Dec 2022 – May 2023**  
+Full Stack Developer · Pune, India · Remote 
 * 💳 Optimized **payment gateway** integration, resulting in a **25%** reduction in transaction failures and improved user trust.
 * 📱 Developed and integrated mobile applications, ensuring seamless functionality, intuitive interfaces, and smooth performance across devices, **reducing user complaints by 60%**.
 * 🤖 **Integrated and optimized AI model responses**, reducing latency from **1.86s to 1.2s (35% faster)** through strategic API design, caching, and performance tuning.
 * 🛠️ Reduced technical debt **by 30% via in-depth code reviews** and optimization, ensuring maintainable, standardized codebases.
 * ☁️ **Designed scalable cloud architecture on Microsoft Azure** for AI workloads, improving system **throughput by 10%** while significantly **reducing infrastructure costs** via autoscaling and resource optimization.
-
-
----
-
-
-### Cyberoi Systems 
-**Mar 2023 – Aug 2023**  
-Frontend Developer · Chandigarh, Punjab · Remote 
-* 🖥️ Built responsive and user-friendly web pages using **React.js** and Material-UI, improving overall UI consistency.
-* 🔌 Integrated **ElasticSearch** API on the frontend to display restaurants based on user queries and locations.
-* ⚙️ Implemented **Google Maps API** to detect and display the user’s current location for nearby restaurant suggestions.
-* 🛠️ Gained exposure to AWS services, serverless technologies, and CI/CD pipelines with Jenkins, enhancing understanding of modern deployment practices.
-* ⚡ Collaborated with the backend team to connect APIs with the frontend, **improving** data flow and overall application **performance**.
 
 
 ---

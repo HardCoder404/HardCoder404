@@ -51,6 +51,19 @@ Let’s connect - I’d love to collaborate and code something impactful togethe
 
 ---
 
+### WhatBytes
+**Aug 2025 - Jan 2026**   
+ Full Stack Developer · Bengaluru, India · Remote
+
+* 🤖 Built an **AI/LLM Evaluation & Feedback Platform** used internally to benchmark and compare outputs from multiple large language models (LLMs).
+* 🏗️ **Developed LLM benchmarking infrastructure** supporting both static and real-time **model evaluations** via scalable API integrations.
+* 🔄 Designed **multi-turn conversation evaluation workflows**, capturing per-turn scoring metrics and overall conversation quality signals.
+* 📦 Delivered **clean, validated JSONL outputs for AI research pipelines,** model improvement cycles, and analytics use cases.
+* 🔍 Implemented **quality control workflows** including mandatory rationales, automated validation checks, and structured manual QC reviews.
+* ⚙️ Engineered an **end-to-end project configuration system** to manage task generation, evaluation rules, comparison modes, and output formatting.
+
+---
+
 ### Slooze  
 **May 2025 - Jul 2025**  
 Sr. Software Engineer · Coimbatore, Tamil Nadu, India · Remote 

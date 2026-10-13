@@ -141,10 +141,10 @@ How I work: **evidence over opinion**, boring infrastructure that stays up, and 
 ## 📊 GitHub
 
 <div align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=hardcoder404&show_icons=true&rank_icon=github&hide_border=true&border_radius=16&bg_color=0b0810&title_color=ff6ab5&icon_color=ff2d8d&text_color=cdbfcb&ring_color=ff2d8d" alt="Stats" />
-  <img width="420" src="https://streak-stats.demolab.com/?user=hardcoder404&hide_border=true&border_radius=16&background=0b0810&ring=ff2d8d&fire=ff6ab5&currStreakNum=f7f1f6&sideNums=f7f1f6&currStreakLabel=ff6ab5&sideLabels=8e7f8c&dates=8e7f8c" alt="Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hardcoder404&show_icons=true&rank_icon=github&hide=contribs&hide_border=true&border_radius=16&bg_color=0b0810&title_color=ff6ab5&icon_color=ff2d8d&text_color=cdbfcb&ring_color=ff2d8d&card_width=440" alt="Stats" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=hardcoder404&hide_border=true&border_radius=16&background=0b0810&ring=ff2d8d&fire=ff6ab5&currStreakNum=f7f1f6&sideNums=f7f1f6&currStreakLabel=ff6ab5&sideLabels=8e7f8c&dates=8e7f8c&card_width=440" alt="Streak" />
   <br/>
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardcoder404&layout=compact&hide_border=true&border_radius=16&bg_color=0b0810&title_color=ff6ab5&text_color=cdbfcb&size_weight=0.7&count_weight=0.7" alt="Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardcoder404&layout=compact&hide_border=true&border_radius=16&bg_color=0b0810&title_color=ff6ab5&text_color=cdbfcb&size_weight=0.7&count_weight=0.7&card_width=440&langs_count=6" alt="Languages" />
 </div>
 
 ---
@@ -161,10 +161,27 @@ How I work: **evidence over opinion**, boring infrastructure that stays up, and 
   <a href="https://www.hackerrank.com/profile/HardCoder404"><img src="https://img.shields.io/badge/HackerRank-HardCoder404-0b0810?style=flat-square&logo=hackerrank&logoColor=00EA64" alt="HackerRank" /></a>
 </p>
 
-<p align="center"><a href="https://leetcode.com/u/HardCoder404/"><img src="https://prince404.in/img/readme/badges.svg" width="100%" alt="14 LeetCode badges" /></a></p>
+<h3 align="center">🎖️ LeetCode badges</h3>
+<p align="center">
+  <img src="https://prince404.in/img/badges/annual.png" width="78" alt="Annual Badge" />
+  <img src="https://prince404.in/img/badges/200-days.png" width="78" alt="200 Days Badge" />
+  <img src="https://prince404.in/img/badges/100-days.png" width="78" alt="100 Days Badge" />
+  <img src="https://prince404.in/img/badges/100-days-2.png" width="78" alt="100 Days Badge" />
+  <img src="https://prince404.in/img/badges/50-days.png" width="78" alt="50 Days Badge" />
+  <img src="https://prince404.in/img/badges/50-days-2.png" width="78" alt="50 Days Badge" />
+  <img src="https://prince404.in/img/badges/dec.png" width="78" alt="December Challenge" />
+  <br/>
+  <img src="https://prince404.in/img/badges/nov.png" width="78" alt="November Challenge" />
+  <img src="https://prince404.in/img/badges/oct.png" width="78" alt="October Challenge" />
+  <img src="https://prince404.in/img/badges/jun.png" width="78" alt="June Challenge" />
+  <img src="https://prince404.in/img/badges/may.png" width="78" alt="May Challenge" />
+  <img src="https://prince404.in/img/badges/apr.png" width="78" alt="April Challenge" />
+  <img src="https://prince404.in/img/badges/mar.png" width="78" alt="March Challenge" />
+  <img src="https://prince404.in/img/badges/jan.png" width="78" alt="January Challenge" />
+</p>
+<p align="center"><sub>14 badges · 200-day streak · annual 2024</sub></p>
 
-<h3 align="center">Holopin</h3>
-<p align="center"><a href="https://holopin.io/@hardcoder404"><img src="https://holopin.me/hardcoder404" alt="Holopin badges" /></a></p>
+<p align="center"><a href="https://holopin.io/@hardcoder404"><img width="70%" src="https://holopin.me/hardcoder404" alt="Holopin badges" /></a></p>
 
 ---
 

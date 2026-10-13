@@ -5,7 +5,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Abril+Fatface&size=32&pause=1000&color=996d6d&background=33086700&random=false&width=700&lines=Hi+There!+I'm+Prince+Raj+(Software+Engineer);"/></h1>
 
 <h3 align="center">Cracked 4 National & International Remote SDE Roles as a Fresher</h3>
-<p align="center"><b>Software Engineer @Quess Corp | Ex-FSD @WhatBytes  | Ex-Software Engineer @Slooze | 3⭐ LEETCODE | GSSoC'24 Contributor | 200DaysOfCode+ on @LeetCode | 1000+ Problems Solved on DSA | DSA & DEV Mentor | 75DayHardPlacementChallenge 🔥</b> 
+<p align="center"><b>Software Engineer @Quess Corp | Ex-FSD @WhatBytes | 3⭐ LEETCODE | GSSoC'24 Contributor | 200DaysOfCode+ on @LeetCode | 1000+ Problems Solved on DSA | DSA & DEV Mentor | 75DayHardPlacementChallenge 🔥</b> 
 
 <img align="right" alt="Coding" width="450" height ="450" src="https://assets.leetcode.com/static_assets/marketing/2024.gif">
 <br/><br/>
@@ -41,87 +41,54 @@ Let’s connect - I’d love to collaborate and code something impactful togethe
 <p align="left">
 
 ### Quess Corp
-**Feb 2026 - Present**   
- Software Engineer · Gurugram, India · On-site
+**Feb 2026 - Present**</br>
+Software Engineer - Gen AI & Full Stack</br>
+Gurugram, India · On-site</br>
+#### Client: Ethara AI
 
-* 🧠 **Engineered structured evaluation workflows** for coding LLMs by analyzing real-world GitHub PRs, extracting detailed task metadata (language, difficulty, critical files), and validating outputs against **golden reference patches** for precise correctness checks.
-* 📏 Designed **5-10 task-specific binary rubrics (40-50% correctness-focused)** to systematically grade model responses across code quality, logical reasoning, summary accuracy, and behavioral alignment.
-* ⚖️ **Led side-by-side (SxS) model evaluations** using a weighted scoring framework (Instruction Following, Truthfulness, Correctness, Writing Style, Verbosity) to determine clear model preference and quality differentials.
-* 🚀 Conducted competitive benchmarking of internal models against **GPT-5.2 and Gemini-3 Pro**, delivering **evidence-backed justifications** and structured JSON reports to accelerate post-training optimization and performance analysis.
+* 🧠 **Architected and owned an end-to-end code-migration evaluation harness** for a **Microsoft frontier-model program**, extending the RepoTransBench research benchmark into a production evaluation workflow adopted by the tasking team.
+* 🐳 Engineered **1,200+ multi-architecture Docker images** (amd64, arm64) across **16 programming languages** for LLM evaluation infrastructure, parallelised builds with Docker BuildKit and published to AWS ECR for high-throughput evaluation.
+* 🧪 Built an end-to-end Python data pipeline generating a **Supervised Fine-Tuning (SFT) dataset** for a frontier coding model: mined bounty-linked GitHub issues, filtered issue-resolving pull requests, extracted verified fix and test patches, and produced structured JSONL ground-truth instances across 16 languages.
+* 🗂️ Designed a **registry-driven evaluation harness** with per-repository build, dependency and test configurations for **50+ open-source projects** (Redis, curl, systemd, Valkey, DiceDB), enabling deterministic, automated scoring of LLM-generated patches in isolated containers.
+* ⚖️ Owned **grading and output verification**: produced specification-compliant output bundles and agent trajectories, audited every sample end to end, and ran binary-rubric and side-by-side (SxS) evaluations against **GPT-5.2 and Gemini-3 Pro**, delivering structured JSON reports used in post-training analysis.
 
 ---
 
 ### WhatBytes
-**Aug 2025 - Jan 2026**   
- Full Stack Developer · Bengaluru, India · Remote
+**Aug 2025 - Jan 2026**</br>
+Full Stack Developer</br>
+Bengaluru, India · Remote
 
-* 🤖 Built an **AI/LLM Evaluation & Feedback Platform** used internally to benchmark and compare outputs from multiple large language models (LLMs).
-* 🏗️ **Developed LLM benchmarking infrastructure** supporting both static and real-time **model evaluations** via scalable API integrations.
-* 🔄 Designed **multi-turn conversation evaluation workflows**, capturing per-turn scoring metrics and overall conversation quality signals.
-* 📦 Delivered **clean, validated JSONL outputs for AI research pipelines,** model improvement cycles, and analytics use cases.
-* 🔍 Implemented **quality control workflows** including mandatory rationales, automated validation checks, and structured manual QC reviews.
-* ⚙️ Engineered an **end-to-end project configuration system** to manage task generation, evaluation rules, comparison modes, and output formatting.
-
----
-
-### Slooze  
-**May 2025 - Jul 2025**  
-Sr. Software Engineer · Coimbatore, Tamil Nadu, India · Remote 
-
-* 🎨 **Spearheaded the creation** of an internal design-to-dev pipeline using a custom **Canva workspace**, streamlining the design handoff process and reducing UI inconsistencies by **70%**.
-* 🔐 Refactored and secured **critical API endpoints**, ensuring optimal performance and alignment with RESTful best practices while improving system resilience and maintainability.
-* ☁️ Coordinated with cross-functional teams to enhance backend deployments with **zero-downtime strategies**, leveraging **AWS services for monitoring**, autoscaling, and **rollback capabilities**.
-* 👥 Played a key role in mentoring junior developers and conducting **code reviews** focused on scalability, maintainability, and adherence to coding standards.
-* 🏗️ Actively contributed to architectural decisions impacting **feature rollout and long-term maintainability of the codebase**.
-* ⚙️ Developed token-based access with **one-time/monthly/yearly tiers**, including real-time **token usage tracking**, **speed controls**, and **upsell modals** for premium upgrades.
-* 🔍 Enhanced AskAI with **contextual node + discussion integration**, improving answer relevance and surfacing smarter suggestions.
-* 📈 Resulted in 3x higher roadmap completions, reduced user drop-offs, and transformed the platform into a **self-evolving AI-first learning ecosystem**.
-
-<h2></h2>
-
-**Nov 2024 - Apr 2025**  
-Software Engineer · Coimbatore, Tamil Nadu, India · Remote 
-* 🌐 Developed and designed the **official company website** with seamless **3D model integration** and advanced UI animations using Framer Motion, enhancing user interactivity and visual appeal.
-* 🔗 Integrated **GraphQL APIs** for efficient and structured data fetching, **transitioning from traditional REST APIs** to a more scalable and performant architecture.
-* 📡 **Connected the Request Service module with Zoho Work Channel**, enabling automated lead capture and streamlined service management across teams.
-* ⚡ **Refactored** and optimized the **entire codebase to minimize redundant API calls**, resulting in a **40% reduction** in initial page load time and improved overall performance.
-* 🚢 **Deployed scalable CI/CD pipelines** using **Azure, GitLab, and Vercel**, ensuring **zero-downtime deployments** and faster iteration cycles across teams.
-* 🔧 **Handled end-to-end production deployment**, maintaining **high availability, fault tolerance**, and robust performance at scale.
+* 🤖 Architected an internal **LLM benchmarking platform** using Next.js, Node.js, and Redis to evaluate and compare outputs across **5+ frontier LLM APIs** simultaneously.
+* 🔄 Designed **multi-turn conversation evaluation pipelines**, capturing per-turn scoring and semantic quality metrics across **10,000+ benchmark prompts**.
+* 🔍 Automated data validation workflows by enforcing structured JSONL output schemas and mandatory rationale checks, cutting manual QC audit overhead by **35%**.
+* ⚙️ Engineered configurable task-generation modules, allowing engineering teams to dynamically test model outputs against custom rubric criteria and export validated datasets for fine-tuning.
 
 ---
 
-### DevTown 
-**Sep 2023 – Oct 2024**  
-SDE-I · Mumbai, Maharashtra, India · Remote 
-* 🤖 **Built an AI-powered chat application** from the ground up, improving **frontend efficiency by 60%** and backend performance by **30%**, delivering a highly responsive user experience.
-* ⚡ **Integrated and optimized AI model responses**, reducing latency from **1.86s to 1.2s (35% faster)** through strategic API design, caching, and performance tuning.
-* 🔌 Developed and integrated APIs to enable seamless frontend-backend communication while implementing secure **user authentication mechanisms**.
-* 🎨 **Developed modern, responsive UI components** in React that improved **user engagement metrics by 25%**, including better retention and interaction rates.
-* 💰 Led a cost-saving initiative by identifying unused AWS resources and establishing **S3 bucket expiration policies**, leading to an annual cost reduction exceeding **$50,000 in AWS expenditures**.
-* 🚀 **Led the implementation of new features** using the **MERN stack**, cutting down **development time by 40%**, and accelerating product iteration cycles.
-* 🛡️  Utilized **Migrations and secure authentication** techniques to optimize system performance and scalability, improving operational efficiency by **40%**.
+### DevTown
+**Jun 2024 - Jul 2025**</br>
+SDE I</br>
+Mumbai, Maharashtra, India · Remote
+
+* 🔌 Engineered **30+ scalable RESTful APIs** using the MERN stack to power core platform features, standardizing frontend-backend data flow and implementing secure JWT-based user authentication.
+* 🤖 Architected an **AI-powered chat application** from the ground up, streamlining component rendering and backend data processing to improve **frontend efficiency by 60%** and backend performance by **30%**.
+* ⚡ Optimized AI model response pipelines through strategic API design and advanced caching mechanisms, successfully reducing AI response latency from **1.86s to 1.2s (a 35% improvement)**.
+* 💰 Led a cloud infrastructure cost-optimization initiative, identifying underutilized AWS resources and enforcing S3 lifecycle expiration policies to reduce annual AWS expenditures by over **$50,000**.
+* 🛡️ Executed **zero-downtime database migrations** (leveraging NeonDB) and implemented robust security protocols, improving overall system scalability and operational efficiency by **40%**.
+* 🚀 Spearheaded the rollout of new platform features across the MERN stack, establishing reusable UI components that cut down average development time by **40%** and accelerated product iteration cycles.
 
 ---
 
-### Xipper 
-**Jun 2023 – Aug 2023**  
-Full Stack Developer · Bengaluru, India · Remote 
-* 🔌 Designed and integrated RESTful APIs, **reducing system overload** and enhancing communication between frontend and backend systems by **30%**, ensuring robust and scalable interactions.
-* 📡 Designed scalable **real-time communication features** using WebSocket, ensuring smooth and reliable user experiences in live chat applications, reducing latency issues **by 35%**.
-* 🗂️ **Owned and managed the complete project lifecycle**, from initial system design and dev planning to **production deployment**, server setup, and post-launch support.
-* 🛠️ **Conducted in-depth code reviews and optimization**, reducing **technical debt by 30%**, standardizing best practices across teams, and improving maintainability.
-* ⚡ **Led the end-to-end performance overhaul** of the platform, focusing on smoother tab-switching experiences, minimal downtime, and blazing-fast navigation across the app.
+### Xipper
+**Nov 2023 - Jan 2024**</br>
+Full Stack Developer</br>
+Bengaluru, India · Remote · Internship
 
----
-
-### EliteKods 
-**Dec 2022 – May 2023**  
-Full Stack Developer · Pune, India · Remote 
-* 💳 Optimized **payment gateway** integration, resulting in a **25%** reduction in transaction failures and improved user trust.
-* 📱 Developed and integrated mobile applications, ensuring seamless functionality, intuitive interfaces, and smooth performance across devices, **reducing user complaints by 60%**.
-* 🤖 **Integrated and optimized AI model responses**, reducing latency from **1.86s to 1.2s (35% faster)** through strategic API design, caching, and performance tuning.
-* 🛠️ Reduced technical debt **by 30% via in-depth code reviews** and optimization, ensuring maintainable, standardized codebases.
-* ☁️ **Designed scalable cloud architecture on Microsoft Azure** for AI workloads, improving system **throughput by 10%** while significantly **reducing infrastructure costs** via autoscaling and resource optimization.
+* 🔌 Designed and integrated **25+ RESTful APIs**, reducing system overload and enhancing communication between frontend and backend systems by **30%**, ensuring robust and scalable interactions.
+* 📡 Designed scalable **real-time communication features** using WebSocket, ensuring smooth and reliable user experiences in live chat applications, reducing latency issues by **35%**.
+* 🛠️ Participated in regular code reviews and unit testing, identifying architectural bottlenecks and reducing legacy technical debt across shared modules by **30%**.
+* ⚡ Optimized frontend rendering performance in React.js, reducing unnecessary DOM updates to deliver smoother tab switching and faster client-side navigation.
 
 
 ---
@@ -130,20 +97,27 @@ Full Stack Developer · Pune, India · Remote
  
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/princeraj404" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/034/716/139/non_2x/x-new-twitter-logo-free-png.png" height="40" width="40" /></a>&nbsp
-<a href="https://www.linkedin.com/in/prince404/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="prince raj" height="35" width="35" /></a>&nbsp
-<a href="https://www.instagram.com/x_prince_404/?next=%2F" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="x_prince_404" height="35" width="35" /></a>
-<a href="mailto:praj81232@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" alt="x_prince_404" height="60" width="60" /></a>
+  <a href="https://prince404.in" target="_blank"><img align="center" src="https://prince404.in/favicon.png" alt="Portfolio" height="36" width="36" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/prince404/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="36" width="36" /></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/princeraj404" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff">
+      <img align="center" src="https://cdn.simpleicons.org/x/000000" alt="X" height="34" width="34" />
+    </picture>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/x_prince_404/" target="_blank"><img align="center" src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="36" width="36" /></a>&nbsp;&nbsp;
+  <a href="https://wa.me/918218328333?text=Hi%20Prince%2C%20I%20came%20across%20your%20portfolio%20and%20would%20like%20to%20discuss%20a%20potential%20opportunity.%20When%20would%20be%20a%20good%20time%20to%20talk%3F" target="_blank"><img align="center" src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" height="36" width="36" /></a>&nbsp;&nbsp;
+  <a href="mailto:praj81232@gmail.com"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="36" width="36" /></a>
+</p>
 
-</br>
-<h2 align="left">I'm Code on (DSA):</h2>
+<h2 align="left">Problem solving:</h2>
 <p align="left">
-<a href="https://www.codechef.com/users/hardcoder26" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="dracula935" height="30" width="40" /></a>&nbsp
-<a href="https://www.hackerrank.com/profile/HardCoder404" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="hardcoder404" height="30" width="30" /></a>&nbsp
-<a href="https://codeforces.com/profile/prince_404" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png" alt="prince_404" height="24" width="130" /></a>&nbsp
-<a href="https://leetcode.com/HardCoder404/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" alt="hardcoder404" height="30" width="30" /></a>&nbsp
-<a href="https://auth.geeksforgeeks.org/user/dracula935/practice" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6-300x160.png" alt="dracula935" height="29" width="45" /></a>
-</br></br>
+  <a href="https://leetcode.com/u/HardCoder404/" target="_blank"><img align="center" src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" height="34" width="34" /></a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/prince_404" target="_blank"><img align="center" src="https://cdn.simpleicons.org/codeforces/1F8ACB" alt="Codeforces" height="34" width="34" /></a>&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/dracula935/" target="_blank"><img align="center" src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" alt="GeeksforGeeks" height="34" width="34" /></a>&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/hardcoder26" target="_blank"><img align="center" src="https://cdn.simpleicons.org/codechef/5B4638" alt="CodeChef" height="34" width="34" /></a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/HardCoder404" target="_blank"><img align="center" src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" height="34" width="34" /></a>
+</p>
 
 ---
 
@@ -217,19 +191,21 @@ Full Stack Developer · Pune, India · Remote
 
 <h2 align="center">🎖️ All DSA Badges @LeetCode 🎖️</h2>
 <br>
-<div align=center>
- <img src="https://miro.medium.com/0*rH8aOBazxJ8t9msp.gif" width="80px"/>
-  <img src="https://assets.leetcode.com/users/images/20b0a625-ea31-4a3e-b561-7000deae15cc_1708636184.9909492.gif" width="80px"/>
-  <img src="https://media.licdn.com/dms/image/v2/D5622AQE2Azq62gSfgA/feedshare-shrink_800/feedshare-shrink_800/0/1703910451361?e=1761177600&v=beta&t=UiRrC92_zp4H5Bo5TL_IIaS1O5KsC7SSFuePfa6lzKs" width="80px"/>
-  <img src="https://media.licdn.com/dms/image/v2/D5622AQEr-zHvpxnsaQ/feedshare-shrink_800/feedshare-shrink_800/0/1703910452934?e=1761177600&v=beta&t=1PyPFoElVqZWujoyDSwes_-jePnoXvKwa7JdIAnKj3Q" width="80px"/>
-  <img src="https://media.licdn.com/dms/image/v2/D5622AQGteRt1IT34RA/feedshare-shrink_800/feedshare-shrink_800/0/1719718413212?e=1761177600&v=beta&t=-6qY-D-dPOrxt_xjq71yDv6Dq7VVUbPSNoT9GymTgcU" width="80px"/>
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQEzvQMU542tmg/feedshare-shrink_800/feedshare-shrink_800/0/1717145209065?e=1761177600&v=beta&t=QaQHY2WWnQgVcmx618Uno34cDR79i5LdOwnjsjiD1Ik" width="80px"/>
-  <img src="https://media.licdn.com/dms/image/v2/D5622AQGw2VyYUDfOvg/feedshare-shrink_800/feedshare-shrink_800/0/1715309303938?e=1761177600&v=beta&t=b8ZVZGxElKVo1BIFHplCUZ788W3hf9h1Ljhe34R5hNk" width="80px"/>
-  <img src="https://media.licdn.com/dms/image/v2/D5622AQHuprO-zdIExg/feedshare-shrink_800/feedshare-shrink_800/0/1712828518741?e=1761177600&v=beta&t=PaiUT9YTdb0B5vXLuube0uUwlFWqJiTkhOkhs5_jaa8" width="80px"/>
-  <img src="https://media.licdn.com/dms/image/v2/D5622AQGrl-Y_xJ6Teg/feedshare-shrink_2048_1536/B56ZS8c9leHwAo-/0/1738328501228?e=1761177600&v=beta&t=5nlKp4gbyR213NaWSD6wtBOqOaswwhSSWZD9-cymU30" width="80px"/>
-  <img src="https://camo.githubusercontent.com/d5c083ddd97dbcab2721063dc51d54e3a62a1366220709e82a2b887a7a98486a/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f6261646765732f323032342f6769662f323032342d31312e676966" width="80px"/>
-  <img src="https://media.licdn.com/dms/image/v2/D4E22AQH_Q5O2TRYY7g/feedshare-shrink_800/feedshare-shrink_800/0/1698740127543?e=1761177600&v=beta&t=JZR_C4CdPKseXZAW0lb311VdLzwc6mch0ttRe3x2qvI" width="80px"/>
-  <img src="https://private-user-images.githubusercontent.com/136890202/393192398-d5bf3d37-57e3-42d2-b26d-e83fb5e6fd34.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgwNTE5MjksIm5iZiI6MTc1ODA1MTYyOSwicGF0aCI6Ii8xMzY4OTAyMDIvMzkzMTkyMzk4LWQ1YmYzZDM3LTU3ZTMtNDJkMi1iMjZkLWU4M2ZiNWU2ZmQzNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxNlQxOTQwMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMTFmY2E4NjA0NzIyNGJhMzUwODYyM2E5NTBhOWM4MjkwYTQ2YzhhNDNmZmM0ZTdmYTA5MDBmMjBhNmM0OWU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.1eXDxpTSx-r8oDMUo8FH8i6hkLJ2XDV45FtXJlrRJFs" width="80px"/>
+<div align="center">
+  <img src="https://prince404.in/img/badges/annual.png" width="80px" alt="Annual Badge" />
+  <img src="https://prince404.in/img/badges/200-days.png" width="80px" alt="200 Days Badge" />
+  <img src="https://prince404.in/img/badges/100-days.png" width="80px" alt="100 Days Badge" />
+  <img src="https://prince404.in/img/badges/100-days-2.png" width="80px" alt="100 Days Badge" />
+  <img src="https://prince404.in/img/badges/50-days.png" width="80px" alt="50 Days Badge" />
+  <img src="https://prince404.in/img/badges/50-days-2.png" width="80px" alt="50 Days Badge" />
+  <img src="https://prince404.in/img/badges/dec.png" width="80px" alt="December Challenge" />
+  <img src="https://prince404.in/img/badges/nov.png" width="80px" alt="November Challenge" /><br/>
+  <img src="https://prince404.in/img/badges/oct.png" width="80px" alt="October Challenge" />
+  <img src="https://prince404.in/img/badges/jun.png" width="80px" alt="June Challenge" />
+  <img src="https://prince404.in/img/badges/may.png" width="80px" alt="May Challenge" />
+  <img src="https://prince404.in/img/badges/apr.png" width="80px" alt="April Challenge" />
+  <img src="https://prince404.in/img/badges/mar.png" width="80px" alt="March Challenge" />
+  <img src="https://prince404.in/img/badges/jan.png" width="80px" alt="January Challenge" />
 </div>
 <br/>
 <hr/>

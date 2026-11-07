@@ -33,7 +33,7 @@ How I work: **evidence over opinion**, boring infrastructure that stays up, and 
 <td align="center" width="20%"><h2>1,200+</h2><sub>Docker images shipped for LLM evaluation</sub></td>
 <td align="center" width="20%"><h2>50+</h2><sub>open-source repos wired into the eval harness</sub></td>
 <td align="center" width="20%"><h2>$50k/yr</h2><sub>cut from an AWS bill</sub></td>
-<td align="center" width="20%"><h2>10,000+</h2><sub>concurrent submissions handled by SafeReport</sub></td>
+<td align="center" width="20%"><h2>$0.00007</h2><sub>per run in Agent Studio, forks re-run nothing</sub></td>
 <td align="center" width="20%"><h2>1.86s → 1.2s</h2><sub>AI response latency after tuning</sub></td>
 </tr>
 </table>
@@ -91,10 +91,11 @@ How I work: **evidence over opinion**, boring infrastructure that stays up, and 
 
 ## 🚀 Featured project
 
-**[SafeReport](https://github.com/HardCoder404/crime-report-app)** · AI-powered anonymous crime reporting platform · `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Gemini API` `Docker`
+**[Agent Studio](https://github.com/HardCoder404/agent-studio)** · Build, run and debug multi-agent workflows on a canvas · [Live demo](https://agent-studio-rouge-eta.vercel.app) · `Next.js` `React Flow` `TypeScript` `FastAPI` `LangGraph` `PostgreSQL` `Docker` `MCP`
 
-* AI-powered incident analysis, automatic report generation and real-time geolocation via the Google Maps API. A complete report in under a minute, with the reporter's identity never stored.
-* Prisma/PostgreSQL schema tuned with indexes and query patterns to sustain **10,000+ concurrent submissions**, secured with end-to-end encryption, JWT authentication and rate limiting.
+* Visual canvas for multi-agent workflows on a LangGraph **execution harness** that saves state after every step, so runs pause for human approval, resume, or **fork from any checkpoint** without re-running earlier calls.
+* Designed an **event-sourced run log** streamed over **WebSockets** with replay on reconnect. One log drives the live canvas, console, timeline, per-node **cost tracking** and OpenTelemetry-style traces.
+* **Evaluation harness** (rule-based scorers, **LLM-as-judge**, failure heatmap, model sweeps that pick the cheapest passing model), **MCP** tools, a **Docker sandbox** and CI with 86 tests. Page loads cut from 1.4 s to 0.25 s.
 
 ---
 

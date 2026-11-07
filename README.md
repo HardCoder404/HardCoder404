@@ -91,7 +91,9 @@ How I work: **evidence over opinion**, boring infrastructure that stays up, and 
 
 ## 🚀 Featured project
 
-**[Agent Studio](https://github.com/HardCoder404/agent-studio)** · Build, run and debug multi-agent workflows on a canvas · [Live demo](https://agent-studio-rouge-eta.vercel.app) · `Next.js` `React Flow` `TypeScript` `FastAPI` `LangGraph` `PostgreSQL` `Docker` `MCP`
+**[Agent Studio](https://github.com/HardCoder404/agent-studio)** · Build, run and debug multi-agent workflows on a canvas &nbsp;·&nbsp; **[Live demo ↗](https://agent-studio-rouge-eta.vercel.app)** · **[Code](https://github.com/HardCoder404/agent-studio)**
+
+`Next.js` `React Flow` `TypeScript` `FastAPI` `LangGraph` `PostgreSQL` `Docker` `MCP`
 
 * Visual canvas for multi-agent workflows on a LangGraph **execution harness** that saves state after every step, so runs pause for human approval, resume, or **fork from any checkpoint** without re-running earlier calls.
 * Designed an **event-sourced run log** streamed over **WebSockets** with replay on reconnect. One log drives the live canvas, console, timeline, per-node **cost tracking** and OpenTelemetry-style traces.

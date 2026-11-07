@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 0 440 150" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">
+<rect width="440" height="150" rx="16" fill="#0b0810" stroke="#1c1522"/>
+<text x="25" y="35" font-size="18" font-weight="600" fill="#ff6ab5">Most used languages</text>
+<defs><clipPath id="bar"><rect x="25" y="50" width="390" height="8" rx="4"/></clipPath></defs>
+<rect x="25.0" y="50" width="191.5" height="8" fill="#f1e05a" clip-path="url(#bar)"/>
+<rect x="216.5" y="50" width="140.4" height="8" fill="#3178c6" clip-path="url(#bar)"/>
+<rect x="356.9" y="50" width="20.0" height="8" fill="#f34b7d" clip-path="url(#bar)"/>
+<rect x="376.8" y="50" width="17.2" height="8" fill="#663399" clip-path="url(#bar)"/>
+<rect x="394.1" y="50" width="12.7" height="8" fill="#3572A5" clip-path="url(#bar)"/>
+<rect x="406.7" y="50" width="5.5" height="8" fill="#e34c26" clip-path="url(#bar)"/>
+<circle cx="30" cy="80" r="5" fill="#f1e05a"/>
+<text x="43" y="84" font-size="13" fill="#cdbfcb">JavaScript <tspan fill="#8e7f8c">49.1%</tspan></text>
+<circle cx="230" cy="80" r="5" fill="#3178c6"/>
+<text x="243" y="84" font-size="13" fill="#cdbfcb">TypeScript <tspan fill="#8e7f8c">36.0%</tspan></text>
+<circle cx="30" cy="102" r="5" fill="#f34b7d"/>
+<text x="43" y="106" font-size="13" fill="#cdbfcb">C++ <tspan fill="#8e7f8c">5.1%</tspan></text>
+<circle cx="230" cy="102" r="5" fill="#663399"/>
+<text x="243" y="106" font-size="13" fill="#cdbfcb">CSS <tspan fill="#8e7f8c">4.4%</tspan></text>
+<circle cx="30" cy="124" r="5" fill="#3572A5"/>
+<text x="43" y="128" font-size="13" fill="#cdbfcb">Python <tspan fill="#8e7f8c">3.2%</tspan></text>
+<circle cx="230" cy="124" r="5" fill="#e34c26"/>
+<text x="243" y="128" font-size="13" fill="#cdbfcb">HTML <tspan fill="#8e7f8c">1.4%</tspan></text>
+</svg>
